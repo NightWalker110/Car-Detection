@@ -1,8 +1,3 @@
 # Car-Detection
 
 A MACHINE LEARNING PROJECT USING PYTHON.
-l
-l
-k
-k
-k
